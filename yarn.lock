@@ -8230,7 +8230,7 @@ ts-jest@^25.3.0:
     bs-logger "0.x"
     buffer-from "1.x"
     fast-json-stable-stringify "2.x"
-    json5 "2.x"
+    json5 "^2.x"
     lodash.memoize "4.x"
     make-error "1.x"
     micromatch "4.x"
