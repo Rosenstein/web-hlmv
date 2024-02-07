@@ -48,7 +48,7 @@
     "@types/three": "^0.93.19",
     "awesome-typescript-loader": "^5.2.0",
     "babel-plugin-styled-components": "^1.8.0",
-    "eslint": "^5.7.0",
+    "eslint": "^8.56.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-loader": "^3.0.0",
