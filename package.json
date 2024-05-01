@@ -45,7 +45,7 @@
     "@types/react-dropzone": "^4.2.2",
     "@types/react-hot-loader": "^4.1.0",
     "@types/styled-components": "4.1.8",
-    "@types/three": "^0.93.19",
+    "@types/three": "^0.163.0",
     "awesome-typescript-loader": "^5.2.0",
     "babel-plugin-styled-components": "^1.8.0",
     "eslint": "^9.0.0",
