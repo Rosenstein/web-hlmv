@@ -1390,10 +1390,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.1"
 
-"@snyk/protect@1.1293.0":
-  version "1.1293.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1293.0.tgz#499c72d6900c86451335a45c34b2b8487747a5e1"
-  integrity sha512-k7Xv0lgFskXGjbnhKWmrBNG8d2DHuvEWFu5rVV6ppjDme30nAGn1pvX3XwEeLp9AcovJWjechUOusyNn6S7JKA==
+"@snyk/protect@1.1293.1":
+  version "1.1293.1"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1293.1.tgz#2fb02c26732a8500d3400379524fe708e660c0ad"
+  integrity sha512-PT2lleyaQU+AvWmnPJ3yKWNyj7JnPUZvOrVTRfXpmmPfjx+U2k3jzsk8EDj0BJd9+goTsTyeQVGCPPSqE5MQtQ==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.11"
